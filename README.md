@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Licence" src="https://img.shields.io/github/license/vitoriamartins12/deep-chat">
+  <img alt="Licence" src="https://img.shields.io/github/license/vitoriamartins12/user-manager">
   <img alt="Node version" src="https://img.shields.io/badge/JavaScript-green">
 </p>
 
